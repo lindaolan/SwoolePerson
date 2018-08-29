@@ -1,0 +1,20 @@
+{
+	"require": {
+		"php": ">=7.1.10"
+	},
+	"autoload": {
+		"psr-4": {
+			"app\\": "src/app"
+		}
+	},
+	"authors": [{
+		"name": "lindaolan",
+		"email": "lindaolan@126.com",
+		"homepage": "https://github.com/lindaolan"
+	}],
+	"name": "lindaolan/swooleperson",
+	"type": "library",
+	"keywords": ["server", "swoole", "lindaolan"],
+	"description": "In order to develop the api server",
+	"license": "MIT"
+}
