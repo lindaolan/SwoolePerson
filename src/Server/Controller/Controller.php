@@ -1,6 +1,6 @@
 <?php
 namespace Server\Controller;
-class Person
+class Controller
 {
     private $_name = null;
     public function getPersonName()
