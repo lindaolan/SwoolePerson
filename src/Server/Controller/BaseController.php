@@ -1,1 +1,5 @@
-BaseController
+<?php
+
+class BaseController{
+  
+}
